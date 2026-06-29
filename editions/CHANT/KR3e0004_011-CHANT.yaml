@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0004/chant/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 神聖工巧第十一六十一難曰經言望而知之謂之神聞而知之謂之聖問而知之謂之工切脈而知之謂之巧何謂也然望而知之者望見其五色以知其病聞而知之者聞其五音以別其病問而知之者問其所欲五味以知其病所起所在也切脈而知之者診其寸口視其虛實以知其病病在何藏府也經言以外知之曰聖以內知之曰神此之謂也
+  hash: sha256:5ab310bdbbd92a42246067c49b60830806c4fc8de33f9cb2013334dd987c4a77
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3e0004_CHANT_011-1a.1-h}
+metadata:
+  title: 難經
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3e0004.xml
+hash: sha256:56c93f8a154ca63923bd90c272664935a17a5e788495959634cfadbf9cd13b10

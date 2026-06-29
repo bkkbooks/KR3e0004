@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0004/chant/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 榮衛三焦第四三十難曰榮氣之行常與衛氣相隨不然經言人受氣於穀穀入於胃乃傳與五藏六府五藏六府皆受於氣其清者為榮濁者為衛榮行脈中衛行脈外榮周不息五十而復大會陰陽相貫如環之無端故知榮衛相隨也三十一難曰三焦者何稟何主何始何終其治常在何許可曉以不然三焦者水穀之道路氣之所終始也上焦者在心下下膈在胃上口主內而不出其治在膻中玉堂下一寸六分直兩乳間陷者是中焦者在胃中脘不上不下主腐熟水穀其治在齊傍下焦者在臍下當膀胱上口主分別清濁主出而不內以傳導也其治在齊下一寸故名曰三焦其府在氣街一本曰衝
+  hash: sha256:0039aa6472d67dc331ab34d120deb4ba697ac63011dd7b1e2777a6540592c10a
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3e0004_CHANT_004-1a.1-h}
+metadata:
+  title: 難經
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3e0004.xml
+hash: sha256:ea4d53a3140f773b7150cc7923dc6f262657c16c1b5fdad16a2b588b36a39fb6

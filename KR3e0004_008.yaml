@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0004/chant/v1/juan/8
+seq: 8
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 藏府傳病第八五十三難曰經言七傳者死間藏者生何謂也然七傳者傳其所勝也間藏者傳其子也何以言之假令心病傳肺肺傳肝肝傳脾脾傳腎腎傳心一藏不再傷故言七傳者死也間藏者傳其所生也假令心病傳脾脾傳肺肺傳腎腎傳肝肝傳心是母子相傳竟而復始如環之無端故言生也五十四難曰藏病難治府病易治何謂也然藏病所以難治者傳其所勝也府病易治者傳其子也與七傳間藏同法也
+  hash: sha256:57e7a7b5227387d70aac09fb7d0393f0de771c6ae2e1d622e4dada51310b61df
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3e0004_CHANT_008-1a.1-h}
+metadata:
+  title: 難經
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3e0004.xml
+hash: sha256:5dd6178c04758ae08fa5e971792205632dbc6ecbbc30d33d397801e26df3ce54

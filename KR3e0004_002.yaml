@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR3e0004/chant/v1/juan/2
+seq: 2
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 經絡大數第二二十五難曰有十二經五藏六府十一耳其一經者何等經也然一經者手少陰與心主別脈也心主與三焦為表裏俱有名而無形故言經有十二也二十六難曰經有十二絡有十五餘三絡者是何等絡也然有陽絡有陰絡有脾之大絡陽絡者陽蹻之絡也陰絡者陰蹻之絡也故絡有十五焉
+  hash: sha256:3483c3979493d13880c7a9df6d1b17e6947faa1d6cc4f37f3976e976880f80f8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3e0004_CHANT_002-1a.1-h}
+metadata:
+  title: 難經
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR3e0004.xml
+hash: sha256:71fd3e1ebaaae9c8a180fe24ac03ec345922f7f425b7a14d21aadda7784ecf59

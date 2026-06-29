@@ -1,0 +1,138 @@
+canonical_identifier: bkk:krp/KR3e0004/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR3e0004/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 難經本義
+  date: '2015-08-24 23:03:56.390394'
+  source:
+    repository: kanripo
+    path: KR3e0004
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR3e0004_000-WYG.yaml, hash: 'sha256:2f83b03b2703caec6cf47d66a8a9f4778833ab489db5039e6558baf1072d836e'}
+  - {seq: 1, filename: KR3e0004_001-WYG.yaml, hash: 'sha256:c30b71bbda75ff2ef76903c0395e37607b8aafb8aa2a98902d007c150501f3fb'}
+  - {seq: 2, filename: KR3e0004_002-WYG.yaml, hash: 'sha256:ed54b9fdc55ee97fbfcdc58b7e313c389e79ed12b2e34d14a3aaa867e0869ec1'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3e0004_000-WYG.markers.yaml, hash: 'sha256:539c4d7f698aa451b65a596cc2d4ad7470881da46aaeaa7863ac8354645dd138'}
+  - {seq: 1, role: markers, filename: assets/KR3e0004_001-WYG.markers.yaml, hash: 'sha256:ca898d4fe299a40aaae61fec1f6264db5edf6d4b0e2414ab0344353d24c980f4'}
+  - {seq: 2, role: markers, filename: assets/KR3e0004_002-WYG.markers.yaml, hash: 'sha256:3e372c0608b475925c78596ccd8e7a8ffa677e2e1c380a61f1cb40a6d497ebf3'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3e0004_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 640
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0004_WYG_000-4a
+    span:
+    - body
+    - 640
+    - 1002
+  label: 序張翥
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0004_WYG_000-6a
+    span:
+    - body
+    - 1002
+    - 1480
+  label: 序劉仁本
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0004_WYG_000-8a
+    span:
+    - body
+    - 1480
+    - 1752
+  label: 序揭汯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0004_WYG_000-9a
+    span:
+    - body
+    - 1752
+    - 2182
+  label: 序自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0004_WYG_000-11a
+    span:
+    - body
+    - 2182
+    - 2468
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0004_WYG_000-13a
+    span:
+    - body
+    - 2468
+    - 4922
+  label: 彚考
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0004_WYG_000-21a
+    span:
+    - body
+    - 4922
+    - 5522
+  label: 闕誤總類
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3e0004_WYG_000-24a
+    span:
+    - body
+    - 5522
+    - 6341
+  label: 圖
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3e0004_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 17404
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3e0004_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 19078
+  label: 卷下
+  type: section
+  level: 1
+hash: sha256:4cdf65dc6a7647cab5d9f9a11e35d53afc4020abf096d66d4c48c645b1ffc4ce
